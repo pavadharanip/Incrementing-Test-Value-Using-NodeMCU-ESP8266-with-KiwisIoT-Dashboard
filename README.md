@@ -83,8 +83,10 @@ Data sent to KiwisIoT: 5
 ...
 Data sent to KiwisIoT: 18
 
-![Test Output](./test%20op.jpeg)
 ```
+
+![Test Output](./test%20op.jpeg)
+
 
 ## 📚 Learning Outcomes
 
