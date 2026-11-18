@@ -1,4 +1,4 @@
-# 🌐 **Incrementing Test Value Using NodeMCU ESP8266 and KiwisIoT**
+# 🌐 **Incrementing Test Value Using NodeMCU ESP8266 and KiwisIoT Platform**
 
 ## 📌 Project Overview
 
