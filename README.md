@@ -57,6 +57,8 @@ The received values can be monitored on the KiwisIoT dashboard.
 - `kiwisiot.send("0", testValue)` – Sends the value to Channel 0.
 - `delay(3000)` – Adds a 3-second delay between transmissions.
 
+  [View Arduino Code](./test%20val.ino)
+
 ## ☁️ KiwisIoT Platform
 
 KiwisIoT is used to receive and monitor the data sent by NodeMCU ESP8266.
@@ -80,7 +82,8 @@ Data sent to KiwisIoT: 4
 Data sent to KiwisIoT: 5
 ...
 Data sent to KiwisIoT: 18
-Data sent to KiwisIoT: 1
+
+![Test Output](./test%20op.jpeg)
 ```
 
 ## 📚 Learning Outcomes
