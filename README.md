@@ -85,7 +85,7 @@ Data sent to KiwisIoT: 18
 
 ```
 
-![Increment Output](./increment.jpeg)
+![Increment Output](./imgincr.jpeg)
 
 
 ## 📚 Learning Outcomes
