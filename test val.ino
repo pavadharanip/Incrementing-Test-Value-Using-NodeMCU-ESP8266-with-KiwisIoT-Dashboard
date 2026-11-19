@@ -2,11 +2,11 @@
 #include <KiwisIoT.h>
 
 // WiFi credentials
-const char* ssid = "lapptt";
-const char* pass = "oppof298";
+const char* ssid = "YOUR WIFI NAME";
+const char* pass = "YOUR WIFI PASSWORD";
 
 // KiwisIoT Topic ID
-const char* topic = "dash_1794813302537";
+const char* topic = "TOPIC DASH ID";
 
 // Create KiwisIoT object
 KiwisIoT kiwisiot(ssid, pass, topic);
