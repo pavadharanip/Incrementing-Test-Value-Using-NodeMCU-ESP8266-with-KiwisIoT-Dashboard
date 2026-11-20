@@ -30,6 +30,8 @@ The received values can be monitored on the KiwisIoT dashboard.
 - KiwisIoT Library
 - KiwisIoT Platform
 
+ [View Arduino Code](./test%20val.ino)
+
 ## ⚙️ Technologies Used
 
 - NodeMCU ESP8266
@@ -56,8 +58,6 @@ The received values can be monitored on the KiwisIoT dashboard.
 - `testValue = 1` – Resets the value to 1.
 - `kiwisiot.send("0", testValue)` – Sends the value to Channel 0.
 - `delay(3000)` – Adds a 3-second delay between transmissions.
-
-  [View Arduino Code](./test%20val.ino)
 
 ## ☁️ KiwisIoT Platform
 
@@ -106,8 +106,3 @@ Through this project, I learned:
 - Display real-time sensor readings.
 - Create interactive IoT dashboards.
 - Monitor temperature, humidity, and light intensity.
-
-## 👩‍💻 Project Status
-
-**Completed – My First IoT Project! 🎉**
-
